@@ -1,0 +1,4 @@
+build.js
+
+# Project exclude paths
+/node_modules/
